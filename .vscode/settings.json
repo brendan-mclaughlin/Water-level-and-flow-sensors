@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "hd44780.h": "c"
+    }
+}
